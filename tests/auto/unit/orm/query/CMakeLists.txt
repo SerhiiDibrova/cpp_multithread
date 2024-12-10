@@ -1,3 +1,0 @@
-add_subdirectory(mysql_querybuilder)
-add_subdirectory(postgresql_querybuilder)
-add_subdirectory(sqlite_querybuilder)

@@ -1,4 +1,0 @@
-add_subdirectory(blueprint)
-add_subdirectory(mysql_schemabuilder)
-add_subdirectory(postgresql_schemabuilder)
-add_subdirectory(sqlite_schemabuilder)
